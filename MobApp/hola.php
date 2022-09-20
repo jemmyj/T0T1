@@ -1,3 +1,3 @@
 <?php
 
-echo "q tal estás?"
+echo "q tal estás?";
